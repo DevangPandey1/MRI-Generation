@@ -1,0 +1,30 @@
+Brain Tumor MRI Dataset — Data Split Summary
+=============================================
+
+Split Configuration:
+  - Training Set:    70%
+  - Validation Set:  20%
+  - Test Set:        10%
+  - Random Seed:     42
+
+Total Images: 3,064
+
+Image Distribution by Split:
+  - Train     : 2,144 images (70.0%)
+  - Val       :   612 images (20.0%)
+  - Test      :   308 images (10.1%)
+
+Class Distribution:
+------------------------------------------------------------
+| Class            | Train |  Val | Test | Total | % of Total |
+------------------------------------------------------------
+| Meningioma       |   495 |  141 |   72 |   708 |       23.1% |
+| Glioma           |   998 |  285 |  143 |  1426 |       46.5% |
+| Pituitary_Tumor  |   651 |  186 |   93 |   930 |       30.4% |
+------------------------------------------------------------
+| Total            |  2144 |  612 |  308 |  3064 |      100.0% |
+------------------------------------------------------------
+
+Notes:
+- The dataset was randomly shuffled prior to splitting using a fixed seed to ensure reproducibility.
+- All classes are represented proportionally across splits.

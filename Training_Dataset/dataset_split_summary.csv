@@ -1,0 +1,10 @@
+split,class,count
+train,meningioma,495
+train,glioma,998
+train,pituitary_tumor,651
+val,meningioma,141
+val,glioma,285
+val,pituitary_tumor,186
+test,meningioma,72
+test,glioma,143
+test,pituitary_tumor,93
