@@ -1,5 +1,4 @@
 Brain Tumor MRI Dataset — Data Split Summary
-=============================================
 
 Split Configuration:
   - Training Set:    70%
