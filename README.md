@@ -23,4 +23,4 @@ This repository contains code and data for generating synthetic brain tumor MRI 
 - See the provided Jupyter notebooks for step-by-step instructions on data loading, model training, and image generation.
 
 ---
-For questions or collaboration, please contact the Devang Pandey @ d6vangpandey@gmail.com 
+For questions or collaboration, please contact Devang Pandey @ depa9289@colorado.edu 
